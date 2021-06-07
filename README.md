@@ -20,9 +20,9 @@
 
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/littlecarIos" target="_blank" rel="noopener noreferrer"><img src=https://image.flaticon.com/icons/png/512/25/25347.png width="50" /></a> 
-&nbsp; <a href="https://www.behance.net/cv1tor" target="_blank" rel="noopener noreferrer"><img src="https://image.flaticon.com/icons/png/512/254/254383.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/carlos-vitor-duarte-rodrigues-galv%C3%A3o-a158481a5/" target="_blank" rel="noopener noreferrer"><img src="https://image.flaticon.com/icons/png/512/61/61109.png" width="50" /></a>
+&nbsp; <a href="https://twitter.com/littlecarIos" target="_blank" rel="noopener noreferrer"><img src=https://image.flaticon.com/icons/png/512/185/185961.png width="60" /></a> 
+&nbsp; <a href="https://www.behance.net/cv1tor" target="_blank" rel="noopener noreferrer"><img src="https://image.flaticon.com/icons/png/512/185/185970.png" width="60" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/carlos-vitor-duarte-rodrigues-galv%C3%A3o-a158481a5/" target="_blank" rel="noopener noreferrer"><img src="https://image.flaticon.com/icons/png/512/185/185964.png" width="60" /></a>
   <h5 align="center">cvitor586@gmail.com</h5>
 </p>
 </div>

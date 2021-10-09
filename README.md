@@ -16,7 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CV1tor&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CV1tor&layout=compact&langs_count=7&theme=bear"/>
 </div>
-<hr>
+<hr><a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/b2f4f4a6630879c0db03831a5c3da044.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a>
 
 
 <h1 align='left'>
@@ -24,7 +24,7 @@
  <a href="https://www.linkedin.com/in/cv1tor/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" /></a>  
  <a href="https://api.whatsapp.com/send?l=pt-BR&phone=5584987403717&text=Ol%C3%A1%2C%20Carlos!" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" /></a> 
   <div align='right'>
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/b2f4f4a6630879c0db03831a5c3da044.gif" width="300" height="300" border="0" alt="https://picasion.com/" display='inline'/></a>
+
 
 
 </h1>

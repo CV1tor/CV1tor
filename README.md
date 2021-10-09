@@ -14,7 +14,7 @@
 <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" width="50">
 <img src="https://media.slid.es/uploads/juscezari/images/413092/CSS3.png" width='50'>
 </div>
- <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/b2f4f4a6630879c0db03831a5c3da044.gif" width="200" height="200" style="border-radius=50%;" alt="https://picasion.com/" align='right' /></a> 
+
 
 <hr>
 

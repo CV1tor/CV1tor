@@ -21,8 +21,7 @@
 
 <p align='center'>
 &nbsp; <a href="https://twitter.com/littlecarIos" target="_blank" rel="noopener noreferrer"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white width='150' /></a> 
-&nbsp; <a href="https://www.behance.net/cv1tor" target="_blank" rel="noopener noreferrer"><img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/carlos-vitor-duarte-rodrigues-galv%C3%A3o-a158481a5/" target="_blank" rel="noopener noreferrer"><img src="https://image.flaticon.com/icons/png/512/185/185964.png" width="60" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/cv1tor/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white width="150" /></a>  
 
 </p>
 

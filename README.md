@@ -1,6 +1,6 @@
-<h1> Hi! I'm Carlos. 🐢 </h1>
-<h2> FrontEnd Devolpment Apprentice 🎨👨‍💻 </h2>
-<h3> 📖 Current learning React </h3>
+<h1> Hi! I'm Carlos. 🐢 </h1> <br>
+<h2> FrontEnd Devolpment Apprentice 🎨👨‍💻 </h2> <br>
+<h3> 📖 Current learning React </h3> <br>
 
 
 

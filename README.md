@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hello! I'm Carlos.   </h1>
-<h3 align="center"> Frontend Developing Apprentice 👨‍💻📚 </h3>
+<h3 align="center"> Frontend Development Apprentice 👨‍💻📚 </h3>
 
 <p align='center'>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="50">
@@ -26,5 +26,3 @@
   <h5 align="center">cvitor586@gmail.com</h5>
 </p>
 </div>
-
-![Snake animation](https://github.com/CV1tor/CV1tor/blob/output/github-contribution-grid-snake.svg)

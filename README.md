@@ -7,7 +7,7 @@
 <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" width="50">
 <img src="https://media.slid.es/uploads/juscezari/images/413092/CSS3.png" width='50'>
 </p>
- <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/b2f4f4a6630879c0db03831a5c3da044.gif" width="300" height="300" border-radius="50px" alt="https://picasion.com/" align='right' /></a> 
+
 
 
 <br>
@@ -16,6 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CV1tor&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CV1tor&layout=compact&langs_count=7&theme=bear"/>
 </div>
+ <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/b2f4f4a6630879c0db03831a5c3da044.gif" width="250" height="250" border-radius="50px" alt="https://picasion.com/" align='right' /></a> 
 
 <hr>
 

@@ -28,4 +28,4 @@
 <h5 align="center">cvitor586@gmail.com</h5>
 </div>
 
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/b2f4f4a6630879c0db03831a5c3da044.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a>
+<a align='center' href="https://picasion.com/"><img src="https://i.picasion.com/pic91/b2f4f4a6630879c0db03831a5c3da044.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a>

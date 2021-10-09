@@ -1,8 +1,6 @@
-<div align='center'>
-  ## Hi! I'm Carlos <br>
-  FrontEnd Devolpment Apprentice 🎨👨‍💻 <br>
-  📖 Current learning React <br>
-</div>
+
+  ## Hi! I'm Carlos 
+
 <hr>
 
 

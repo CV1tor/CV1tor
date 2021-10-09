@@ -9,7 +9,7 @@
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CV1tor&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
-<div align='center' style='margin-top=20;'>
+<div align='left' style='margin-top=20;'>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="50">
 <img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" width="50">
 <img src="https://media.slid.es/uploads/juscezari/images/413092/CSS3.png" width='50'>

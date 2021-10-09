@@ -12,10 +12,8 @@
 
 <br>
 <hr>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=CV1tor&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CV1tor&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/CV1tor/github-readme-stats)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CV1tor&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CV1tor&layout=compact&langs_count=7&theme=bear"/>
 <hr>
 
 

@@ -1,5 +1,5 @@
 <div align='center'>
-  # Hi! I'm Carlos. 🐢 <br>
+  ## Hi! I'm Carlos <br>
   FrontEnd Devolpment Apprentice 🎨👨‍💻 <br>
   📖 Current learning React <br>
 </div>

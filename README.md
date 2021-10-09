@@ -20,8 +20,8 @@
 
 
 <p align='center'>
-&nbsp; <a href="https://twitter.com/littlecarIos" target="_blank" rel="noopener noreferrer"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white height='20' /></a> 
-&nbsp; <a href="https://www.linkedin.com/in/cv1tor/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20" /></a>  
+&nbsp; <a href="https://twitter.com/littlecarIos" target="_blank" rel="noopener noreferrer"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white height='100' /></a> 
+&nbsp; <a href="https://www.linkedin.com/in/cv1tor/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="100" /></a>  
 
 </p>
 

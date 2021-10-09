@@ -1,5 +1,5 @@
 
-  ## Hi! I'm Carlos 
+  ## Hi! I'm Carlos, a FrontEnd Devolopment Apprentice 📖 
 
 
 

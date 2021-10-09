@@ -23,6 +23,7 @@
 &nbsp; <a href="https://twitter.com/littlecarIos" target="_blank" rel="noopener noreferrer"><img src=https://image.flaticon.com/icons/png/512/185/185961.png width="60" /></a> 
 &nbsp; <a href="https://www.behance.net/cv1tor" target="_blank" rel="noopener noreferrer"><img src="https://image.flaticon.com/icons/png/512/185/185970.png" width="60" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/carlos-vitor-duarte-rodrigues-galv%C3%A3o-a158481a5/" target="_blank" rel="noopener noreferrer"><img src="https://image.flaticon.com/icons/png/512/185/185964.png" width="60" /></a>
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/b2f4f4a6630879c0db03831a5c3da044.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
   <h5 align="center">cvitor586@gmail.com</h5>
 </p>
 </div>

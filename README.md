@@ -1,7 +1,7 @@
 <div align='center'>
-  <h1> Hi! I'm Carlos. 🐢 </h1> <br>
-  <h2> FrontEnd Devolpment Apprentice 🎨👨‍💻 </h2> <br>
-  <h2> 📖 Current learning React </h3> <br>
+  Hi! I'm Carlos. 🐢 <br>
+  FrontEnd Devolpment Apprentice 🎨👨‍💻 <br>
+  📖 Current learning React <br>
 </div>
 <hr>
 

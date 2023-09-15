@@ -2,15 +2,6 @@
 <h1 align='center'> Hi! I'm Carlos, a React developer! 🎨👨‍💻 </h1> <br>
 
 
-
-
-
-
-<div align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CV1tor&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CV1tor&layout=compact&langs_count=7&theme=bear"/>
-</div>
-
 <div align='center'><br>
   ⚙ <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='40'/>

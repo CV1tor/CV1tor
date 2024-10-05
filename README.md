@@ -1,5 +1,5 @@
 
-<h1 align='center'> Hi! I'm Carlos, a React developer! 🎨👨‍💻 </h1> <br>
+<h1 align='center'> Hi! I'm Carlos!</h1> <br>
 
 
 <div align='center'>

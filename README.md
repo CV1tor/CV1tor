@@ -24,7 +24,7 @@
 <hr>
 
 <div>
-  [![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=cv1tor)](https://github.com/cv1tor/github-readme-stats)
+  [![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CV1tor)](https://github.com/CV1tor/github-readme-stats)
 </div>
 
 

@@ -22,8 +22,9 @@
 
 
 <hr>
-
-[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=cv1tor)](https://github.com/anuraghazra/github-readme-stats)
+<div align='center'>
+  [![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=cv1tor&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
  

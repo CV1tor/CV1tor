@@ -23,7 +23,7 @@
 
 <hr>
 <div align='center'>
-  [![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=cv1tor&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=cv1tor&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 

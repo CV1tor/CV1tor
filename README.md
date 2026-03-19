@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width='40'/>
 </div>
 
-<div align='center'>
+<div align='center' style="margin-top: 10px">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cv1tor&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
